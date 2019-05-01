@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmsBlast</string>
+	<string name="AdmobAppID">ca-app-pub-4444654779912706~7874253576</string>
+	<string name="adUnitId_Banner">ca-app-pub-4444654779912706/4007004878</string>
+</resources>
