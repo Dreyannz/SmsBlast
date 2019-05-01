@@ -84,9 +84,11 @@ public class MainActivity extends AppCompatActivity
 			});
 		
 			
-			
-			
+		
+		//Remove initializeSign(this) to prevent ForcedClose
 		initializeSign(this);
+
+
 		AdMob();
 		if(isTimeAutomatic(this)){}
 		else{finish();}
